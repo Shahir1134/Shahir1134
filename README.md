@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ali%20Shahir&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
@@ -9,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=39FF14&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FShahir1134%2Fprofile-views&style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d1117" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Shahir1134&label=Profile%20Views&color=39FF14&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 <a href="https://www.linkedin.com/in/ali-shahir">
   <img src="https://img.shields.io/badge/LinkedIn-Ali%20Shahir-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" alt="LinkedIn"/>
 </a>
@@ -100,8 +99,8 @@ Full agentic pipeline that detects, tracks, and price-compares retail products i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahir1134&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF00FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir1134&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahir1134&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF00FF&text_color=c9d1d9&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir1134&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&cache_seconds=86400" />
 
 <br/>
 
@@ -110,6 +109,8 @@ Full agentic pipeline that detects, tracks, and price-compares retail products i
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shahir1134&theme=algolia&no-frame=true&row=1&column=7&margin-w=10" />
+
+<sub>⚠️ If the stats/trophy cards above show broken — the free shared Vercel instance is just overloaded, it's not your file. Hard-refresh in a minute, or see the self-hosting note at the bottom for a permanent fix.</sub>
 
 </div>
 
@@ -178,5 +179,15 @@ SETUP NOTES (delete this comment block once done):
 
 4. All badges (stats, streak, trophy) are live services — 
    they'll just work once the README is on your profile repo, no setup needed.
+
+5. If stats/top-langs/trophy cards stay broken for a long time (not just a minute):
+   the public github-readme-stats.vercel.app / github-profile-trophy.vercel.app
+   demo instances get overloaded from shared traffic across all GitHub users.
+   Permanent fix = deploy your own free copy on Vercel:
+     - Stats: fork https://github.com/anuraghazra/github-readme-stats and
+       click its "Deploy to Vercel" button, then swap the domain in this
+       README's stats URLs to your own *.vercel.app domain.
+     - Trophy: same idea with https://github.com/ryo-ma/github-profile-trophy
+   This takes ~2 minutes and makes those cards load instantly and reliably.
 =========================================================
 -->
