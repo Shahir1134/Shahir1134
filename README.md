@@ -99,8 +99,7 @@ YOLOv8/11 ByteTrack LangChain Groq Streamlit
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahir1134&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=FF00FF&text_color=c9d1d9&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahir1134&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9&cache_seconds=86400" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Shahir1134&include_all_commits=true" />
 
 <br/>
 
@@ -110,7 +109,7 @@ YOLOv8/11 ByteTrack LangChain Groq Streamlit
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shahir1134&theme=algolia&no-frame=true&row=1&column=7&margin-w=10" />
 
-<sub>⚠️ If the stats/trophy cards above show broken — the free shared Vercel instance is just overloaded, it's not your file. Hard-refresh in a minute, or see the self-hosting note at the bottom for a permanent fix.</sub>
+<sub>⚠️ If the trophy card above shows broken — the free shared Vercel instance is just overloaded, it's not your file. Hard-refresh in a minute, or see the self-hosting note at the bottom for a permanent fix.</sub>
 
 </div>
 
@@ -180,14 +179,13 @@ SETUP NOTES (delete this comment block once done):
 4. All badges (stats, streak, trophy) are live services — 
    they'll just work once the README is on your profile repo, no setup needed.
 
-5. If stats/top-langs/trophy cards stay broken for a long time (not just a minute):
-   the public github-readme-stats.vercel.app / github-profile-trophy.vercel.app
-   demo instances get overloaded from shared traffic across all GitHub users.
+5. If the trophy card stays broken for a long time (not just a minute):
+   the public github-profile-trophy.vercel.app demo instance gets
+   overloaded from shared traffic across all GitHub users.
    Permanent fix = deploy your own free copy on Vercel:
-     - Stats: fork https://github.com/anuraghazra/github-readme-stats and
+     - fork https://github.com/ryo-ma/github-profile-trophy and
        click its "Deploy to Vercel" button, then swap the domain in this
-       README's stats URLs to your own *.vercel.app domain.
-     - Trophy: same idea with https://github.com/ryo-ma/github-profile-trophy
-   This takes ~2 minutes and makes those cards load instantly and reliably.
+       README's trophy URL to your own *.vercel.app domain.
+   This takes ~2 minutes and makes the card load instantly and reliably.
 =========================================================
 -->
