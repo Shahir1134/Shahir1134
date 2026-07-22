@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ali%20Shahir&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shahir%20Ali&fontSize=55&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%2F+ML+Engineer+in+the+making+%F0%9F%A4%96;Turning+data+into+decisions;Building+ShelfSense+%F0%9F%9B%92+%7C+AI+Radiologist+Assistant+%F0%9F%A9%BB;SIH+Hackathon+%7C+GSSoC'26+Contributor" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shahir1134&label=Profile%20Views&color=39FF14&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 <a href="https://www.linkedin.com/in/ali-shahir">
-  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Shahir-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shahir%20Ali-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Shahir1134">
   <img src="https://img.shields.io/badge/GitHub-Shahir1134-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub"/>
@@ -22,8 +22,8 @@
 
 ## ⚡ About Me
 
-```yaml
-whoami: Ali Shahir
+yaml
+whoami: Shahir Ali
 role: First-Year B.Tech CSE (AI/ML) Student @ KIET Group of Institutions
 focus: [Computer Vision, Deep Learning, Agentic AI, MedTech AI]
 currently:
@@ -32,7 +32,7 @@ currently:
   - 🌱  Contributing to GSSoC 2026 on the AI/Agents track
 goal: "Hackathons → Internships → Top Tech Placement"
 fun_fact: "I don't just train models, I interrogate them."
-```
+
 
 <br/>
 
@@ -62,11 +62,11 @@ fun_fact: "I don't just train models, I interrogate them."
 <td width="50%" valign="top">
 
 ### 🩻 AI Radiologist Assistant
-**MedGemma-powered diagnostic support system**
+*MedGemma-powered diagnostic support system*
 
 Detects abnormalities in medical images, auto-generates radiology reports, and powers a doctor Q&A interface.
 
-`PyTorch` `MedGemma` `Grad-CAM` `FastAPI` `Streamlit`
+PyTorch MedGemma Grad-CAM FastAPI Streamlit
 
 - 🧠 Phase 1: CNN fundamentals on Breast Ultrasound dataset
 - 🔁 Phase 2: Transfer learning (ResNet / EfficientNet)
@@ -77,11 +77,11 @@ Detects abnormalities in medical images, auto-generates radiology reports, and p
 <td width="50%" valign="top">
 
 ### 🛒 ShelfSense
-**Autonomous retail inventory management**
+*Autonomous retail inventory management*
 
 Full agentic pipeline that detects, tracks, and price-compares retail products in real time.
 
-`YOLOv8/11` `ByteTrack` `LangChain` `Groq` `Streamlit`
+YOLOv8/11 ByteTrack LangChain Groq Streamlit
 
 - 👁️ YOLO + ByteTrack detection pipeline
 - 🕸️ Tavily + Playwright scraping agents
