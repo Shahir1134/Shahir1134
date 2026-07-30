@@ -22,7 +22,7 @@
 
 ## ⚡ About Me
 
-yaml
+
 whoami: Shahir Ali
 role: First-Year B.Tech CSE (AI/ML) Student @ KIET Group of Institutions
 focus: [Computer Vision, Deep Learning, Agentic AI, MedTech AI]
