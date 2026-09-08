@@ -24,7 +24,7 @@
 
 
 whoami: Shahir Ali
-role: First-Year B.Tech CSE (AI/ML) Student @ KIET Group of Institutions
+role: Second-Year B.Tech CSIT Student @ KIET Group of Institutions
 focus: [Computer Vision, Deep Learning, Agentic AI, MedTech AI]
 currently:
   - 🛰️  Building an AI Radiologist Assistant (MedGemma-powered) for SIH
