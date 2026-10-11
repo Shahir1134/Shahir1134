@@ -61,17 +61,16 @@ fun_fact: "I don't just train models, I interrogate them."
 <tr>
 <td width="50%" valign="top">
 
-### 🩻 AI Radiologist Assistant
-*MedGemma-powered diagnostic support system*
+🌪️ **CycloCast — AI-Driven Tropical Cyclone Forecasting**
 
-Detects abnormalities in medical images, auto-generates radiology reports, and powers a doctor Q&A interface.
+A multimodal AI system for tropical cyclone tracking and intensity forecasting over the North Indian Ocean, combining satellite imagery, atmospheric forecasting data, and physics-informed meteorological models.
 
-PyTorch MedGemma Grad-CAM FastAPI Streamlit
+**Tech Stack:** PyTorch · ResNet-18 · NOAA GFS · GraphCast · SatPy · Physics-Informed Modeling
 
-- 🧠 Phase 1: CNN fundamentals on Breast Ultrasound dataset
-- 🔁 Phase 2: Transfer learning (ResNet / EfficientNet)
-- 🩺 Phase 3: MedGemma fine-tuning — full multimodal system
-- 🎯 Target: Smart India Hackathon
+- 🛰️ **Satellite Intelligence:** Analyze thermal infrared satellite imagery to estimate cyclone intensity.
+- 🌍 **Atmospheric Forecasting:** Integrate NOAA GFS data for cyclone movement prediction.
+- 🧪 **Physics-Informed AI:** Incorporate meteorological relationships to improve forecast consistency.
+- 🏆 **SIH 2026:** Developed for Smart India Hackathon 2026.
 
 </td>
 <td width="50%" valign="top">
